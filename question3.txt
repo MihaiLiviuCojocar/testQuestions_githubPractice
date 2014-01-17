@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words!
+A branch is like another stream flow of the same river; it alllows us to move our pointer back to a specified commit or merge with the master branch.
