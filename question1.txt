@@ -1,1 +1,5 @@
-Explain what git clone does, in your own words!
+Git clone is a shortcut command for:
+	1. Create a folder
+	2. Initialize a repository inside
+	3. Create a remote
+	4. Pull the files 
