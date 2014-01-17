@@ -1,1 +1,3 @@
 After creating a fork we have to clone the repo, which will have the default remote called "origin" that points to our fork on Github, not the original repository. So, we need to create another remote, called "upstream", which will track the original repo.
+
+-------------------------------
